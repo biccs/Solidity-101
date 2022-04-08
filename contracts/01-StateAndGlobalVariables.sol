@@ -7,7 +7,7 @@ pragma solidity >=0.7.0 <0.9.0;
 import "hardhat/console.sol";
 
 //keyword contract states class creation
-contract stateAndGlobalVariables {
+contract StateAndGlobalVariables {
     //Variables Represent Smart Contract State
     //Variables visibility private (only within contract), public (in and out of contract),
     // non stated visibilitu (private by default).
